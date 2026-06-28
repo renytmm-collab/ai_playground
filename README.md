@@ -4,7 +4,7 @@ This repository records my AI learning journey.
 
 ## Projects
 
-- [ ] Week01 - Hello LLM
+- ✅️ Week01 - Hello LLM
 - [ ] Week02 - Weather Agent
 - [ ] Week03 - Paper Summary
 - [ ] Week04 - RAG Demo
